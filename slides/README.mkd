@@ -1,0 +1,5 @@
+# web payments
+https://wiki.mozilla.org/WebAPI/WebPaymentProvider
+https://wiki.mozilla.org/WebAPI/Direct_Billing
+https://wiki.mozilla.org/images/e/e5/MozPayFlow.jpg
+http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
