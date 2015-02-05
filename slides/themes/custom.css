@@ -1,3 +1,12 @@
 .moz, .moz::before {
   color: white;
 }
+
+#so h2 {
+  top: 30%;
+}
+
+#so img {
+  margin-top: 20%;
+  margin-left: 30%;
+}

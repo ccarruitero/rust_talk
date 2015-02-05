@@ -1,15 +1,3 @@
-# slides for gdg lima dev fest
+# rust for developers
 
-https://developer.mozilla.org/es/Apps/Quickstart/Build/Introduccion_a_las_open_web_apps
-https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/
-http://www.slideshare.net/cheilmann/open-web-apps-state-of-the-browser-2014
-https://hacks.mozilla.org/2013/02/getting-started-with-open-web-apps-why-and-how/
-http://www.slideshare.net/cheilmann/the-web-the-mobile-web-and-nothing-but-the-web-keynote-at-mobiletechcon-2014
-http://www.slideshare.net/cheilmann/just-days-before-the-appocalypse-native-summit-keynote
-http://www.slideshare.net/cheilmann/the-things-browsers-can-do-sae-alumni-convention-2014
-http://www.slideshare.net/robnyman/firefox-os-learnings-visions-webapis-budapestmobile
-http://www.slideshare.net/cheilmann/the-things-browsers-can-do-sae-alumni-convention-2014
-http://www.youtube.com/watch?v=enIautN3_tI
-https://www.google.com/chrome/webstore/apps-create.html
-https://plus.google.com/+PaulIrish/posts/fR3iiuN4kEF
-http://www.mozilla-hispano.org/avance-en-las-open-web-apps-multi-plataforma/
+An introduction talk to rust language for [local ruby meetup]()
